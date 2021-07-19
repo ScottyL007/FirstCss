@@ -1,0 +1,39 @@
+body {
+     font-family:"Caveat", sans-serif;
+      background-color: lightgray;}
+
+h2, p, .readme-wrapper {text-align:Center;}
+a {text-decoration: none; color:blueviolet;}
+a:hover
+{color:cornflowerblue; font:bolder; cursor:pointer;}
+.boxes { 
+    margin: 3px; 
+    padding: 5px; 
+    border-style: solid; 
+    border-color: rgb(241, 175, 88);
+    border-radius:49px 49px 49px 49px;
+    width: 30em ;
+    display:block;
+ }
+ #box1{
+     background-color: rgb(8, 87, 133);
+ }
+ #box2{
+     background-color: rgb(226, 120, 120);
+     
+ }
+ #box3{
+     background-color: rgb(161, 236, 161);
+ }
+ #box4{
+     background-color:rgb(161, 123, 161) ;
+ }
+.imgtxt{
+    height:50px; width: 50px;
+    border-radius: 50px;
+    background-color: rgb(240, 240, 63);
+    position:relative;
+    left: 50px;
+    top: 50px;
+}
+h1{color: rgb(4, 7, 138);}
