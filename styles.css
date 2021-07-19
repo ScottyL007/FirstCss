@@ -37,3 +37,14 @@ a:hover
     top: 50px;
 }
 h1{color: rgb(4, 7, 138);}
+.original { color: red;}
+.additional {color:silver}
+#rank1 {color: slateblue;}
+#rank2 {color: tan;}
+#rank3 {color:orangered;}
+#rank4 {color:greenyellow ;}
+#rank5 {color: brown;}
+ul { color: darkblue;}
+.star {color: darkred;}
+#wars {color: dimgrey;}
+div ul{ border-style: solid;border-radius: 2px; border-color: black;}
